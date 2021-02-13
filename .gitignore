@@ -70,11 +70,14 @@ out/
 ######################
 # Maven
 ######################
-/*/log/
-/tcl-application/target/*
-/tcl-domain/target/*
-/tcl-exposition/target/*
-/tcl-infrastructure/target/*
+/tcl-application/target/
+/tcl-domain/target/
+/tcl-exposition/target/
+/tcl-infrastructure/target/
+/tcl-application/log/
+/tcl-domain/log/
+/tcl-exposition/log/
+/tcl-infrastructure/log/
 
 ######################
 # Gradle
